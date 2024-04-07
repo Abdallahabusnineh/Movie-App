@@ -8,9 +8,6 @@ import 'package:moviesapp/core/services/services_locater.dart';
 import 'package:moviesapp/core/utils/app_string.dart';
 import 'package:moviesapp/core/utils/enums.dart';
 import 'package:moviesapp/movie/domain/entites/genres.dart';
-
-import 'package:moviesapp/movie/domain/entites/movie_detail.dart';
-import 'package:moviesapp/movie/domain/entites/recomindation.dart';
 import 'package:moviesapp/movie/presentation/controller/movie_detail_bloc.dart';
 import 'package:shimmer/shimmer.dart';
 
